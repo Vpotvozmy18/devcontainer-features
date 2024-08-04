@@ -54,3 +54,4 @@ jobs:
 
       - name: "Testing global scenarios"
         run: devcontainer features test --global-scenarios-only .
+   "ghcr.io/akhildevelops/devcontainer-features/android-cli:0": {}
